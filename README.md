@@ -1,8 +1,5 @@
 ## Superset Cloning Tool
 
-Group Number: 12  
-Team Name: Red Pandas  
-
 ## Partner Intro:
 Our primary point of contact for this project is Evan Wheeler (ewheeler@unicef.org). 
 
