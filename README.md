@@ -90,8 +90,8 @@ We will be using an MIT licence. UNICEF values contributing to the open source c
 
 ### Contributors
 Special thanks to:
-- Nicholas Macasaet
 - Rohan Mistry
+- Nicholas Macasaet
 - Manya Mittal
 - Rudraksh Monga
 - Andrew Nguyen
